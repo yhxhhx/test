@@ -3,3 +3,4 @@ nihao!!!
 01xingqiu!!!
 new_branch added!!!
 it is main_branch!!!
+it is 2.0 version
